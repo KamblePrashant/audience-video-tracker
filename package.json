@@ -1,0 +1,19 @@
+{
+  "name": "audience-video-tracker",
+  "version": "1.0.0",
+  "description": "This application is used for tracking audience video views details",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamblePrashant/audience-video-tracker.git"
+  },
+  "author": "CSS-GBX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KamblePrashant/audience-video-tracker/issues"
+  },
+  "homepage": "https://github.com/KamblePrashant/audience-video-tracker#readme"
+}
